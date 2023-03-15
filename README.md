@@ -22,7 +22,7 @@
 3) Версия в разработке через GitHub (Данная версия может быть с багами и вообще неработоспособной! Использование Dev версии при разработке не рекомендуется):
 
    ```sh
-   pip3 install https://github.com/Infqq/simpledemotivators/archive/dev.zip --upgrade
+   pip3 install https://github.com/egor835/simpledemotivators/archive/dev.zip --upgrade
    ```
 
 На Windows: pip
